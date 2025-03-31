@@ -100,4 +100,3 @@ Refer to [docs/docker.md](https://github.com/abraunegg/onedrive/blob/master/docs
 
 ### Podman support
 Refer to [docs/podman.md](https://github.com/abraunegg/onedrive/blob/master/docs/podman.md)
-
